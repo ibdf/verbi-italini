@@ -1,0 +1,24 @@
+{
+  "verbs": [
+    {
+      "infinito": "parlare",
+      "type": "are1"
+    },
+    {
+      "infinito": "amare",
+      "type": "are1"
+    },
+    {
+      "infinito": "pensare",
+      "type": "are1"
+    },
+    {
+      "infinito": "dormire",
+      "type": "ire1"
+    },
+    {
+      "infinito": "credere",
+      "type": "ere1"
+    }
+  ]
+}
